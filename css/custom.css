@@ -16,3 +16,54 @@ header h1 {
 	font-weight: normal;
 	font-style: normal;
 }
+
+.social {
+	font-size: 2em;
+	text-align: center;
+}
+
+.social i {
+	margin: 0 15px;
+}
+
+.social a {
+	color: white;
+}
+
+.social a:hover {
+	color: orange;
+}
+
+.footer-social {
+	font-size: 1.5em;
+}
+
+#sponsors-table {
+	width: 100%;
+}
+
+#sponsors-table tr {
+	width: 100%;
+}
+
+#sponsors-table td {
+	width: 50%;
+	text-align: center;
+}
+
+#sponsors-table td img {
+	width: 80%;
+}
+
+#sponsors h2 {
+	text-align: center;
+}
+
+.sponsor-single {
+	text-align: center;
+}
+
+.sponsor-single img {
+	width: 40%;
+	margin-top: -30px;
+}
