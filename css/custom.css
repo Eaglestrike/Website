@@ -28,6 +28,7 @@ header h1 {
 
 .social a {
 	color: white;
+	transition: color .3s ease;
 }
 
 .social a:hover {
