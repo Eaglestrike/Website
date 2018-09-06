@@ -72,6 +72,15 @@ header #hero-img {
 	width: 80%;
 }
 
+#sponsors a img {
+	transition: 0.2s;
+}
+
+#sponsors a:hover img {
+	transform: translateY(-2px);
+	filter: drop-shadow(0 5px 2px rgba(0, 0, 0, 0.2));
+}
+
 h2 {
 	text-align: center;
 }
