@@ -97,6 +97,17 @@ section {
 	padding: 75px 0;
 }
 
+#build-season-down-arrow {
+	color: white;
+	font-size: 2em;
+	transition: color .3s ease;
+	padding: 0;
+}
+
+#build-season-down-arrow:hover {
+	color: orange;
+}
+
 @media screen and (max-width: 992px) {
 	header h1 {
 		font-size: 10vw;
@@ -113,5 +124,9 @@ section {
 
 	#sponsors-mobile img {
 		width: 80%;
+	}
+
+	#build-season-down-arrow {
+		margin-top: -10px;
 	}
 }
