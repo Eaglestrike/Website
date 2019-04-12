@@ -111,6 +111,11 @@ section {
 #apple-logo {
 	max-height: 40% !important;
 	width: 40% !important;
+	margin-bottom: 30px;
+}
+
+#chegg-logo {
+	margin-bottom: 20px;
 }
 
 @media screen and (max-width: 992px) {
