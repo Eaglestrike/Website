@@ -93,6 +93,24 @@ h2 {
 	margin-top: -30px;
 }
 
+.sponsors-head {
+	margin-top: 50px;
+	margin-bottom: 50px;
+	text-align: center;
+	border-bottom: solid #ccc;
+}
+#sponsors-partner {
+	color: red;
+}
+#sponsors-gold {
+	color: gold;
+}
+#sponsors-silver {
+	color: grey;
+}
+#sponsors-bronze {
+	color: #CD7F32;
+}
 section {
 	padding: 75px 0;
 }
@@ -123,7 +141,7 @@ section {
 		font-size: 10vw;
 	}
 
-	#sponsors-desktop {
+	.sponsors-desktop {
 		display: none;
 	}
 
