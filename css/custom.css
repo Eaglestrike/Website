@@ -89,10 +89,9 @@ h2 {
 }
 
 .sponsor-single img {
-	width: 40%;
+	width: 70%;
 	margin-top: -30px;
 }
-
 .sponsors-head {
 	margin-top: 50px;
 	margin-bottom: 50px;
@@ -131,7 +130,10 @@ section {
 	width: 40% !important;
 	margin-bottom: 30px;
 }
-
+#beam-on {
+	width: 80%;
+	text-align: center;
+}
 .bottom-padding {
 	margin-bottom: 20px;
 }
