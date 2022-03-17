@@ -20,8 +20,18 @@ header h1 {
 header #hero-img {
 	height: 12.5em;
 }
+#robot-reveal-row {
+    margin: 0 auto;
+	display: flex;
+	justify-content: center;
 
-#about img, #media img {
+}
+#media iframe {
+	height: 500px;
+	display: block;
+    border-style:none;
+}
+#about img, #media img, #media iframe {
 	width: 100%;
 	box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
 	border-radius: 4px;
@@ -114,6 +124,7 @@ h2 {
 	text-align: center;
 	border-bottom: solid #ccc;
 }
+
 #sponsors-partner {
 	color: red;
 }
